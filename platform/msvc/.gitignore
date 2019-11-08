@@ -1,0 +1,5 @@
+dungeon/
+projects/*
+
+!projects/dungeon.vcxproj
+!projects/dungeon.vcxproj.filters
